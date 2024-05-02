@@ -14,7 +14,7 @@ const data = [
 
     {
         id: 2,
-        imgLocker: `./imgs/locker2.jpg`,
+        imgLocker: `./imgs/locker2.jpsg`,
         title: `offer 2`,
         description: `
            aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -26,7 +26,7 @@ const data = [
     },
 {
         id: 3,
-        imgLocker: `./imgs/locker2.jpg`,
+        imgLocker: `./imgs/locker2.jpmg`,
         title: `offer 3`,
         description: `
            aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -38,7 +38,7 @@ const data = [
     },
 {
         id: 4,
-        imgLocker: `./imgs/locker2.jpg`,
+        imgLocker: `./imgs/locker2.jpng`,
         title: `offer 4`,
         description: `
            aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -50,7 +50,7 @@ const data = [
     },
 {
         id: 5,
-        imgLocker: `./imgs/locker2.jpg`,
+        imgLocker: `./imgs/locker2.jptg`,
         title: `offer 5`,
         description: `
            aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
